@@ -1,0 +1,17 @@
+Column,Category,Code
+month,oct,month_oct
+month,may,month_may
+month,apr,month_apr
+month,jun,month_jun
+month,feb,month_feb
+month,aug,month_aug
+month,jan,month_jan
+month,jul,month_jul
+month,nov,month_nov
+month,sep,month_sep
+month,mar,month_mar
+month,dec,month_dec
+contact_status,never_contacted,contact_status_never_contacted
+contact_status,prev_failure,contact_status_prev_failure
+contact_status,prev_other,contact_status_prev_other
+contact_status,prev_success,contact_status_prev_success
